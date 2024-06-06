@@ -3,7 +3,7 @@ Welcome To my GitHub profile!
 
 ## 🌱 About Me
 I'm a creative frontend developer passionate about building beautiful and user-friendly websites.
-- Currently, I'm currently a student at Noroff, where I'm diving deep into web design and development.
+Currently, I'm currently a student at Noroff, where I'm diving deep into web design and development.
 
 **Creative Enthusiast:**
 Passionate about painting, drawing, sculpting, and crocheting, constantly exploring new artistic expressions.
