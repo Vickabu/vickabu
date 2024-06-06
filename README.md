@@ -49,8 +49,8 @@ Believing that animals make the world a more wonderful place.
 ## 📫 How to Reach Me
    Do you have a project you'd like to discuss, or simply want to say hello? Feel free to reach out! I'll be updating my contact information shortly.
 
-### Check out my portofolio webpage
-**Vickabu**: [Vickabu Portofolio](https://vickabu.github.io/portfolio/)  
+## Check out my portofolio webpage
+**My Portofolio**: [Vickabu](https://vickabu.github.io/portfolio/)  
 
 <!--
 **Vickabu/vickabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
