@@ -25,7 +25,7 @@ Believing that animals make the world a more wonderful place.
  - JavaScript
  - SQL
 
-### Other stuff im rocking atm
+### Other stuff im rocking
   - Figma
   - Canva
   - Boost.ai(certified)
