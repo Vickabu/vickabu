@@ -1,5 +1,7 @@
 ## Hi, I'm Vicktoria! 👋
 
+
+
 ## 🌱 About Me
 I'm a creative frontend developer passionate about building beautiful and user-friendly websites.
 - Currently, I'm currently a student at Noroff, where I'm diving deep into web design and development.
@@ -12,6 +14,8 @@ Music is my constant companion and source of inspiration.
 
 **Animal Advocate:**
 Believing that animals make the world a more wonderful place.
+
+
 
 
 ## 🧑‍💻 Skills and Tools
@@ -27,6 +31,8 @@ Believing that animals make the world a more wonderful place.
   - Canva
   - Boost.ai(certified)
  
+
+
 
 ## 🔭 My Projects
 ### Here are some of my projects so far:
