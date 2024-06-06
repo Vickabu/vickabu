@@ -49,7 +49,7 @@ Believing that animals make the world a more wonderful place.
 ## 📫 How to Reach Me
    Do you have a project you'd like to discuss, or simply want to say hello? Feel free to reach out! I'll be updating my contact information shortly.
 
-## Check out my portofolio webpage
+## Check out my portfolio webpage
 **My Portofolio**: [Vickabu](https://vickabu.github.io/portfolio/)  
 
 <!--
