@@ -1,6 +1,5 @@
 ## Hi, I'm Vicktoria! 👋
-
-### Welcome To my GitHub profile! 
+Welcome To my GitHub profile! 
 
 ## 🌱 About Me
 I'm a creative frontend developer passionate about building beautiful and user-friendly websites.
@@ -50,7 +49,7 @@ Believing that animals make the world a more wonderful place.
 ## 📫 How to Reach Me
    Do you have a project you'd like to discuss, or simply want to say hello? Feel free to reach out! I'll be updating my contact information shortly.
 
-## Check out my portofolio webpage
+### Check out my portofolio webpage
 **Vickabu**: [Vickabu Portofolio](https://vickabu.github.io/portfolio/)  
 
 <!--
