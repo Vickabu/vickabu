@@ -2,17 +2,17 @@
 Welcome To my GitHub profile! 
 
 ## 🌱 About Me
-I'm a creative frontend developer passionate about building beautiful and user-friendly websites.
-Currently, I'm currently a student at Noroff, where I'm diving deep into web design and development.
+Hi! I'm a creative frontend developer who loves building nice-looking and easy-to-use websites.
+I'm currently a student at Noroff, learning all about web design and development — and having a lot of fun with it!
 
-**Creative Enthusiast:**
-Passionate about painting, drawing, sculpting, and crocheting, constantly exploring new artistic expressions.
+**Creative soul:**
+I’m into painting, drawing, sculpting, crocheting — anything where I can make something with my hands. Always up for trying something new.
 
-**Music Lover:**
-Music is my constant companion and source of inspiration.
+**Big music addict:**
+There’s always music playing around me. It helps me focus, lifts my mood, and keeps me inspired.
 
 **Animal Advocate:**
-Believing that animals make the world a more wonderful place.
+I genuinely believe animals make life better. They bring so much joy and calm to the world.
 
 
 
