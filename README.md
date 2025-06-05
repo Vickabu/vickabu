@@ -6,7 +6,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 🎓 Final year student at **Noroff**  
 🧑‍💻 Passionate about **React**, **TypeScript**, and building delightful user experiences  
@@ -49,7 +49,7 @@
 ## 🌐 Portfolio
 
 👩‍🎨 Check out my portfolio site:  
-➡️ [vickabu.github.io/portfolio](https://vickabu.github.io/portfolio/)
+➡️ [vickabu.github.io/portfolio](https://vickabu.netlify.app/)
 
 ---
 
@@ -64,7 +64,7 @@
 ## 📫 Contact
 
 Want to connect or collaborate?  
-📧 [LinkedIn](https://www.linkedin.com/in/vicktoria-b/)  
+📧 [LinkedIn](https://www.linkedin.com/in/vicktoria-alexandra-bure-a98b1815a/)  
 🐾 Always up for a chat about code, design, or animals.
 
 ---
