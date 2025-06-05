@@ -46,14 +46,14 @@
 
 ---
 
-## 🌐 Portfolio
+## Portfolio
 
 👩‍🎨 Check out my portfolio site:  
 ➡️ [vickabu.github.io/portfolio](https://vickabu.netlify.app/)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vickabu&show_icons=true&theme=radical" alt="GitHub stats" />
@@ -61,7 +61,7 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 Want to connect or collaborate?  
 📧 [LinkedIn](https://www.linkedin.com/in/vicktoria-alexandra-bure-a98b1815a/)  
