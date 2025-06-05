@@ -1,56 +1,78 @@
-## Hi, I'm Vicktoria! 👋
-Welcome To my GitHub profile! 
+<!-- Banner (valgfritt, kan lastes opp som repo image) -->
+<!-- ![Banner](./your-banner-image.png) -->
 
-## 🌱 About Me
-Hi! I'm a creative frontend developer who loves building nice-looking and easy-to-use websites.
-I'm currently a student at Noroff, learning all about web design and development — and having a lot of fun with it!
+<h1 align="center">Hi there 👋, I'm Vicktoria</h1>
+<p align="center">🎨 Creative Frontend Developer | 🧠 UX-focused | 🖥️ React Enthusiast</p>
 
-**Creative soul:**
-I’m into painting, drawing, sculpting, crocheting — anything where I can make something with my hands. Always up for trying something new.
+---
 
-**Big music addict:**
-There’s always music playing around me. It helps me focus, lifts my mood, and keeps me inspired.
+## 💫 About Me
 
-**Animal Advocate:**
-I genuinely believe animals make life better. They bring so much joy and calm to the world.
+🎓 Final year student at **Noroff**  
+🧑‍💻 Passionate about **React**, **TypeScript**, and building delightful user experiences  
+🎨 Always creating — whether it's code, sculpture, or digital art  
+🎶 Music fuels my focus. Animals fuel my joy.
 
+---
 
+## 🧰 Tech Stack
 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
-## 🧑‍💻 Skills and Tools
+---
 
-### Programming Languages:
- - HTML
- - CSS
- - JavaScript
- - SQL
+## 🔥 Featured Projects
 
-### Other stuff im rocking
-  - Figma
-  - Canva
-  - Boost.ai(certified)
- 
+### 🏕️ [Holidaze](https://holidaze-mode.netlify.app/)
+> Venue booking platform for guests & hosts  
+🛠️ React, Tailwind, API, Modals, Custom Hooks  
+🔗 [Repo](https://github.com/Vickabu/holidaze-pe2)
 
+### 🛒 [Lazy Sales](https://lazysales.netlify.app/)
+> Group eCommerce project with stress-free vibes  
+🛠️ React, Styled Components, Routing  
+🔗 [Repo](https://github.com/Vickabu/ca-js-frameworks)
 
+### 🔐 [StealthBid](https://stealth-bid.netlify.app/)
+> Auction app with live listings and filters  
+🛠️ React, TypeScript, Tailwind  
+🔗 [Repo](https://github.com/Vickabu/StealthBid)
 
-## 🔭 My Projects
-### Here are some of my projects so far:
+---
 
-- **Gamehub**: [GitHub repository](https://github.com/NoroffFEU/html-css-course-assignment-Vickabu)  
-  This was my first project entering the frontend world.
+## 🌐 Portfolio
 
-- **KSM - Kongsten Science Museum**: [GitHub repository](https://github.com/Vickabu/Semester-Project-1)  
-  This was my semester project shortly after.
+👩‍🎨 Check out my portfolio site:  
+➡️ [vickabu.github.io/portfolio](https://vickabu.github.io/portfolio/)
 
-- **Noah Pawlicious**: [GitHub repository](https://github.com/NoroffFEU/FED1-PE1-Vickabu)  
-  This was my recent exam project. The site is also live [here](https://norofffeu.github.io/FED1-PE1-Vickabu/index.html).
+---
 
+## 📈 GitHub Stats
 
-## 📫 How to Reach Me
-   Do you have a project you'd like to discuss, or simply want to say hello? Feel free to reach out! I'll be updating my contact information shortly.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vickabu&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
 
-## Check out my portfolio webpage
-**My Portofolio**: [Vickabu](https://vickabu.github.io/portfolio/)  
+---
+
+## 📫 Contact
+
+Want to connect or collaborate?  
+📧 [LinkedIn](https://www.linkedin.com/in/vicktoria-b/)  
+🐾 Always up for a chat about code, design, or animals.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vickabu&style=flat-square&color=9F7AEA" alt="Profile views" />
+</p>
+
 
 <!--
 **Vickabu/vickabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
