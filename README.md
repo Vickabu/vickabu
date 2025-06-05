@@ -27,19 +27,19 @@
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
-### 🏕️ [Holidaze](https://holidaze-mode.netlify.app/)
+### [Holidaze](https://holidaze-mode.netlify.app/)
 > Venue booking platform for guests & hosts  
 🛠️ React, Tailwind, API, Modals, Custom Hooks  
 🔗 [Repo](https://github.com/Vickabu/holidaze-pe2)
 
-### 🛒 [Lazy Sales](https://lazysales.netlify.app/)
+### [Lazy Sales](https://lazysales.netlify.app/)
 > Group eCommerce project with stress-free vibes  
 🛠️ React, Styled Components, Routing  
 🔗 [Repo](https://github.com/Vickabu/ca-js-frameworks)
 
-### 🔐 [StealthBid](https://stealth-bid.netlify.app/)
+### [StealthBid](https://stealth-bid.netlify.app/)
 > Auction app with live listings and filters  
 🛠️ React, TypeScript, Tailwind  
 🔗 [Repo](https://github.com/Vickabu/StealthBid)
