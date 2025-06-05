@@ -49,7 +49,7 @@
 ## Portfolio
 
 👩‍🎨 Check out my portfolio site:  
-➡️ [vickabu.github.io/portfolio](https://vickabu.netlify.app/)
+➡️ [Vickabu's portfolio](https://vickabu.netlify.app/)
 
 ---
 
