@@ -15,7 +15,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
