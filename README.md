@@ -68,7 +68,8 @@ When I'm not coding, you’ll probably find me sketching, listening to music, or
 ## 🎨 Portfolio
 
 Wanna see more?  
-➡️ [vickabu.netlify.app](https://vickabu.netlify.app/)
+➡️ [Click here to see my portfolio](https://vickabu.netlify.app/)  
+*Please be kind – I’m constantly learning, tweaking, and growing 💛*
 
 ---
 
