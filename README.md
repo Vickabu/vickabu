@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey there 👋 I'm Vicktoria</h1>
-<p align="center">Frontend developer | UX thinker | React lover | Coffee-fueled creator ☕️🎨</p>
+<p align="center">Frontend developer | UX thinker | React lover | Monster-fueled creator ☕️🎨</p>
 
 ---
 
