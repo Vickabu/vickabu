@@ -41,35 +41,13 @@ When I'm not coding, you’ll probably find me sketching, listening to music, or
 
 ## 🌟 Featured Projects
 
-### [Holidaze](https://holidaze-mode.netlify.app/)
-> Venue booking platform for guests & hosts  
-🛠️ React, Tailwind, API, Modals, Custom Hooks  
-🔍 Focus: Dynamic search, accessibility, responsive layout  
-🔗 [Repo](https://github.com/Vickabu/holidaze-pe2)
-
----
-
-### [Lazy Sales](https://lazysales.netlify.app/)
-> Group eCommerce project with stress-free vibes  
-🛠️ React, Styled Components, Routing  
-🔍 Focus: Team collaboration, clean UI flow  
-🔗 [Repo](https://github.com/Vickabu/ca-js-frameworks)
-
----
-
-### [StealthBid](https://stealth-bid.netlify.app/)
-> Auction app with live listings and filters  
-🛠️ React, TypeScript, Tailwind  
-🔍 Focus: Filtering logic, error handling  
-🔗 [Repo](https://github.com/Vickabu/StealthBid)
+Cooming soon
 
 ---
 
 ## 🎨 Portfolio
 
-Wanna see more?  
-➡️ [Click here to see my portfolio](https://vickabu.netlify.app/)  
-*Please be kind – I’m constantly learning, tweaking, and growing 💛*
+Updated versjon incomming, just tweaking a bit atm 💛*
 
 ---
 
@@ -92,7 +70,7 @@ Wanna see more?
 
 ## 🤝 Let’s Connect!
 
-Got a cool project, looking to collaborate, or just wanna chat design/dev/tech/life?
+Got a cool project, looking to collaborate, or just wanna chat?
 
 📫 [Connect on LinkedIn](https://www.linkedin.com/in/vicktoria-alexandra-bure-a98b1815a/)
 
@@ -103,17 +81,4 @@ Got a cool project, looking to collaborate, or just wanna chat design/dev/tech/l
 </p>
 
 
-<!--
-**Vickabu/vickabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
