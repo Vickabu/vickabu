@@ -9,9 +9,8 @@
 
 I'm a final-year frontend development student at **Noroff**, passionate about turning ideas into smooth, responsive and accessible user experiences. I work mainly in **React**, **TypeScript**, and modern tools like **Vite** and **TailwindCSS**.  
 
-Whether I’m designing in Figma, coding, or sculpting something offline, creativity is always at the core of what I do.  
-
-When I'm not coding, you’ll probably find me sketching, listening to music, or talking to animals like they understand me (they totally do 🐾).
+Whether I’m designing, coding, or sculpting something offline, creativity is always at the core of what I do.  
+So in other words, offline you’ll probably find me sketching, listening to music, or talking to animals like they understand me (they totally do 🐾).
 
 ---
 
